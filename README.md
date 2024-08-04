@@ -1,4 +1,4 @@
-#Create a Jenkins Job to Deploy an applicatio to Amazon Elastic Container Service
+#Create a Jenkins Job to Deploy an application to Amazon Elastic Container Service
 # Project README
 
 ## Step 1: Deploy Terraform Stack
